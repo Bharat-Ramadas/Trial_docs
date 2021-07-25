@@ -1,1 +1,2 @@
-# Trial_docs
+# PythonPlotting
+Making plots in Python using matplotlib
